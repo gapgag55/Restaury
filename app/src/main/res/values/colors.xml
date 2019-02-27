@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- will be removed soon (Kopkap) -->
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <!-- will be removed soon (Kopkap) -->
+
     <color name="colorSea">#009798</color>
     <color name="colorOrange">#EC7014</color>
     <color name="colorYellow">#F4BC36</color>
